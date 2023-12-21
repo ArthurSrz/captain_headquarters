@@ -1,0 +1,693 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <rdf:Description rdf:about="#item_630">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Springer</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eckelberg</foaf:surname>
+                        <foaf:givenName>Rudolf</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calixto</foaf:surname>
+                        <foaf:givenName>Vytor Bezerra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pimentel</foaf:surname>
+                        <foaf:givenName>Marina Hoshiba</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Del Fabro</foaf:surname>
+                        <foaf:givenName>Marcos Didonet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sunyé</foaf:surname>
+                        <foaf:givenName>Marcos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peres</foaf:surname>
+                        <foaf:givenName>Leticia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Todt</foaf:surname>
+                        <foaf:givenName>Eduardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alves</foaf:surname>
+                        <foaf:givenName>Thiago</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dragone</foaf:surname>
+                        <foaf:givenName>Adriana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schneider</foaf:surname>
+                        <foaf:givenName>Gabriela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1862"/>
+        <dc:title>Educational Open Government Data: from requirements to end users</dc:title>
+        <dc:date>2018</dc:date>
+        <bib:pages>463-470</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>International Conference on Web Engineering</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_1862">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1862/Eckelberg-2018a.pdf"/>
+        <dc:title>Eckelberg-2018a.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+        <dc:description>&lt;p xmlns=&quot;http://www.w3.org/1999/xhtml&quot; id=&quot;title&quot;&gt;&lt;strong&gt;Contents&lt;/strong&gt;&lt;/p&gt;&lt;ul xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;list-style-type: none; padding-left:0px&quot; id=&quot;toc&quot;&gt;&lt;li&gt;&lt;a href=&quot;zotero://open-pdf/0_DB92ILQC/2&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_DB92ILQC/4&quot;&gt;Application requirements&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_DB92ILQC/4&quot;&gt;Data characteristics&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_DB92ILQC/5&quot;&gt;The API and front end&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_DB92ILQC/5&quot;&gt;Open Data engineering of educational metrics&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_DB92ILQC/5&quot;&gt;Metrics specification form&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_DB92ILQC/5&quot;&gt;Database creation and maintenance&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_DB92ILQC/6&quot;&gt;API-driven queries&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_DB92ILQC/7&quot;&gt;Web Interface&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_DB92ILQC/7&quot;&gt;Discussion and Lessons learned&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_DB92ILQC/9&quot;&gt;Conclusions&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</dc:description>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4399">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0733-9496"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chini</foaf:surname>
+                        <foaf:givenName>Christopher M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stillwell</foaf:surname>
+                        <foaf:givenName>Ashlynn S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4400"/>
+        <dc:title>Where are all the data? The case for a comprehensive water and wastewater utility database</dc:title>
+        <dc:date>2017</dc:date>
+        <dc:description>Publisher: American Society of Civil Engineers</dc:description>
+        <bib:pages>01816005</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0733-9496">
+        <prism:volume>143</prism:volume>
+        <dc:title>Journal of Water Resources Planning and Management</dc:title>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Journal of Water Resources Planning and Management</dcterms:alternative>
+        <dc:identifier>ISSN 0733-9496</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4400">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4400/Chini and Stillwell - 2017 - Where are all the data The case for a comprehensi.pdf"/>
+        <dc:title>Chini and Stillwell - 2017 - Where are all the data The case for a comprehensi.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:0-465-09463-5">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Basic Books</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Page</foaf:surname>
+                        <foaf:givenName>Scott E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_5472"/>
+        <link:link rdf:resource="#item_5473"/>
+        <dc:title>The model thinker: What you need to know to make data work for you</dc:title>
+        <dc:date>2018</dc:date>
+        <dc:identifier>ISBN 0-465-09463-5</dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_5472">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/5472/The Model Thinker What You Need to Know to Make Data Work for You (Expanded Edition) (Scott E. Page) (Z-Library).epub"/>
+        <dc:title>The Model Thinker What You Need to Know to Make Data Work for You (Expanded Edition) (Scott E. Page) (Z-Library).epub</dc:title>
+        <link:type>application/epub+zip</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_5473">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/5473/The-Model-Thinker-What-You-Need-to-Know-to-Make-Data-Work-for-You-_Expanded-Edition_-_Scott-E.pdf"/>
+        <dc:title>The-Model-Thinker-What-You-Need-to-Know-to-Make-Data-Work-for-You-_Expanded-Edition_-_Scott-E.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+        <dc:description>&lt;p xmlns=&quot;http://www.w3.org/1999/xhtml&quot; id=&quot;title&quot;&gt;&lt;strong&gt;Contents&lt;/strong&gt;&lt;/p&gt;&lt;ul xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;list-style-type: none; padding-left:0px&quot; id=&quot;toc&quot;&gt;&lt;li&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/2&quot;&gt;Title Page&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/3&quot;&gt;Copyright&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/7&quot;&gt;Dedication&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/9&quot;&gt;Epigraph&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/10&quot;&gt;Preface&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/12&quot;&gt;Prologue&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/15&quot;&gt;1 The Many-Model Thinker&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/30&quot;&gt;2 Why Model?&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/45&quot;&gt;3 The Science of Many Models&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/63&quot;&gt;4 Modeling Human Actors&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/83&quot;&gt;5 Normal Distributions: The Bell Curve&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/94&quot;&gt;6 Power-Law Distributions: Long Tails&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/110&quot;&gt;7 Linear Models&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/123&quot;&gt;8 Concavity and Convexity&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/137&quot;&gt;9 Models of Value and Power&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/148&quot;&gt;10 Network Models&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/166&quot;&gt;11 Broadcast, Diffusion, and Contagion&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/180&quot;&gt;12 Entropy: Modeling Uncertainty&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/190&quot;&gt;13 Random Walks&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/202&quot;&gt;14 Path Dependence&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/212&quot;&gt;15 Local Interaction Models&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/222&quot;&gt;16 Lyapunov Functions and Equilibria&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/232&quot;&gt;17 Markov Models&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/246&quot;&gt;18 Systems Dynamics Models&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/259&quot;&gt;19 Threshold Models with Feedbacks&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/275&quot;&gt;20 Spatial and Hedonic Choice&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/293&quot;&gt;21 Game Theory Models Times Three&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/303&quot;&gt;22 Models of Cooperation&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/322&quot;&gt;23 Collective Action Problems&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/337&quot;&gt;24 Mechanism Design&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/354&quot;&gt;25 Signaling Models&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/364&quot;&gt;26 Learning Models&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/380&quot;&gt;27 Multi-Armed Bandit Problems&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/390&quot;&gt;28 Rugged-Landscape Models&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/402&quot;&gt;29 Opioids, COVID-19, and Inequality&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/443&quot;&gt;Discover More&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/444&quot;&gt;About the Author&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/445&quot;&gt;Praise for &amp;amp;quot;The Model Thinker&amp;amp;quot;&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/447&quot;&gt;Notes&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AELL4VSU/506&quot;&gt;Bibliography&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</dc:description>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0747563215000813">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>48</prism:volume>
+                <dc:title>Computers in Human Behavior</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nicolaos</foaf:surname>
+                        <foaf:givenName>Protogeros</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katerina</foaf:surname>
+                        <foaf:givenName>Tzafilkou</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11669"/>
+        <dc:title>Simple-talking database development: Let the end-user design a relational schema by using simple words</dc:title>
+        <dc:date>2015</dc:date>
+        <z:shortTitle>Simple-talking database development</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0747563215000813</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-17 14:06:04</dcterms:dateSubmitted>
+        <dc:description>Publisher: Elsevier</dc:description>
+        <bib:pages>273–289</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_11669">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11669/Nicolaos-2015.pdf"/>
+        <dc:title>Nicolaos-2015.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.igi-global.com/article/second-order-interactive-end-user-development-appropriation-in-the-public-sector/191297">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>30</prism:volume>
+                <dc:title>Journal of Organizational and End User Computing (JOEUC)</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Avdic</foaf:surname>
+                        <foaf:givenName>Anders</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11702"/>
+        <dc:title>Second order interactive end user development appropriation in the public sector: application development using spreadsheet programs</dc:title>
+        <dc:date>2018</dc:date>
+        <z:shortTitle>Second order interactive end user development appropriation in the public sector</z:shortTitle>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.igi-global.com/article/second-order-interactive-end-user-development-appropriation-in-the-public-sector/191297</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-17 14:12:11</dcterms:dateSubmitted>
+        <dc:description>Publisher: IGI Global</dc:description>
+        <bib:pages>82–106</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_11702">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11702/Avdic-2018.pdf"/>
+        <dc:title>Avdic-2018.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://astesj.com/v04/i06/p36/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:24156698,%2024156698"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Madyatmadja</foaf:surname>
+                        <foaf:givenName>Evaristus Didik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adora</foaf:surname>
+                        <foaf:givenName>Chelsea</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11829"/>
+        <dc:title>Designing and Using a MySQL Database for Human Resource Management</dc:title>
+        <dc:date>2019</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://astesj.com/v04/i06/p36/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-18 10:52:57</dcterms:dateSubmitted>
+        <bib:pages>285-290</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:24156698,%2024156698">
+        <prism:volume>4</prism:volume>
+        <dc:title>Advances in Science, Technology and Engineering Systems Journal</dc:title>
+        <dc:identifier>DOI 10.25046/aj040636</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Adv. sci. technol. eng. syst. j.</dcterms:alternative>
+        <dc:identifier>ISSN 24156698, 24156698</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_11829">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="/Users/arthursarazin/Library/CloudStorage/GoogleDrive-max.perkins.paris@gmail.com/My Drive/zotero_pdfs/Madyatmadja-2019.pdf"/>
+        <dc:title>Madyatmadja-2019.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:9798350346138">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 9798350346138</dc:identifier>
+                <dc:title>2022 22nd International Conference on Advances in ICT for Emerging Regions (ICTer)</dc:title>
+                <dc:identifier>DOI 10.1109/ICTer58063.2022.10024085</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Colombo, Sri Lanka</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lasantha</foaf:surname>
+                        <foaf:givenName>P G Waruna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rajapaksha</foaf:surname>
+                        <foaf:givenName>Samantha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ginige</foaf:surname>
+                        <foaf:givenName>Athula</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Generating REST APIs using Meta-Design Paradigm for rapid development of Micro-service Architecture based applications</dc:title>
+        <dc:date>2022-11-30</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/10024085/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-18 11:06:01</dcterms:dateSubmitted>
+        <bib:pages>080-085</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2022 22nd International Conference on Advances in ICT for Emerging Regions (ICTer)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Article rdf:about="https://dl.acm.org/doi/10.1145/3555644">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2573-0142"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Litt</foaf:surname>
+                        <foaf:givenName>Geoffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lim</foaf:surname>
+                        <foaf:givenName>Sarah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kleppmann</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Hardenberg</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11877"/>
+        <dc:title>Peritext: A CRDT for Collaborative Rich Text Editing</dc:title>
+        <dcterms:abstract>Conflict-Free Replicated Data Types (CRDTs) support decentralized collaborative editing of shared data, enabling peer-to-peer sharing and flexible branching and merging workflows. While there is extensive work on CRDTs for plain text, much less is known about CRDTs for rich text with formatting. No algorithms have been published, and existing open-source implementations do not always preserve user intent.
+            In this paper, we describe a model of intent preservation in rich text editing, developed through a series of concurrent editing scenarios. We then describe Peritext, a CRDT algorithm for rich text that satisfies the criteria of our model. The key idea is to store formatting spans alongside the plaintext character sequence, linked to a stable identifier for the first and last character of each span, and then to derive the final formatted text from these spans in a deterministic way that ensures concurrent operations commute.
+            We have prototyped our algorithm in TypeScript, validated it using randomized property-based testing, and integrated it with an editor UI. We also prove that our algorithm ensures convergence, and demonstrate its causality preservation and intention preservation properties.</dcterms:abstract>
+        <dc:date>2022-11-07</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Peritext</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://dl.acm.org/doi/10.1145/3555644</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-21 13:28:37</dcterms:dateSubmitted>
+        <bib:pages>1-36</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2573-0142">
+        <prism:volume>6</prism:volume>
+        <dc:title>Proceedings of the ACM on Human-Computer Interaction</dc:title>
+        <dc:identifier>DOI 10.1145/3555644</dc:identifier>
+        <prism:number>CSCW2</prism:number>
+        <dcterms:alternative>Proc. ACM Hum.-Comput. Interact.</dcterms:alternative>
+        <dc:identifier>ISSN 2573-0142</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_11877">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11877/Litt-2022.pdf"/>
+        <dc:title>Litt-2022.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-9256-3">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-9256-3</dc:identifier>
+                <dc:title>Proceedings of the 9th Workshop on Principles and Practice of Consistency for Distributed Data</dc:title>
+                <dc:identifier>DOI 10.1145/3517209.3524041</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Rennes France</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schiefer</foaf:surname>
+                        <foaf:givenName>Nicholas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Litt</foaf:surname>
+                        <foaf:givenName>Geoffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jackson</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11879"/>
+        <dc:title>Merge what you can, fork what you can't: managing data integrity in local-first software</dc:title>
+        <dc:date>2022-04-05</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Merge what you can, fork what you can't</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/3517209.3524041</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-21 13:28:39</dcterms:dateSubmitted>
+        <bib:pages>24-32</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>EuroSys '22: Seventeenth European Conference on Computer Systems</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_11879">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11879/Schiefer-2022a.pdf"/>
+        <dc:title>Schiefer-2022a.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+        <dc:description>&lt;p xmlns=&quot;http://www.w3.org/1999/xhtml&quot; id=&quot;title&quot;&gt;&lt;strong&gt;Contents&lt;/strong&gt;&lt;/p&gt;&lt;ul xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;list-style-type: none; padding-left:0px&quot; id=&quot;toc&quot;&gt;&lt;li&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/1&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/1&quot;&gt;1 Introduction&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/2&quot;&gt;2 Sync challenges in digital gardens&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/3&quot;&gt;2.1 Example scenario&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/4&quot;&gt;3 The forking histories model&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/5&quot;&gt;3.1 Forking histories in our example&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/6&quot;&gt;3.2 Design considerations&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/6&quot;&gt;4 Our proposal: TreeDB&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/6&quot;&gt;4.1 Events, versions, and conflict sets&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/6&quot;&gt;4.2 Conflicts and serialization&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/7&quot;&gt;4.3 Sequencing&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/7&quot;&gt;4.4 Materializing&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/7&quot;&gt;5 Simulating existing systems&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/8&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_AIXD622K/8&quot;&gt;References&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</dc:description>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-8986-0">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-8986-0</dc:identifier>
+                <dc:title>Companion Proceedings of the 5th International Conference on the Art, Science, and Engineering of Programming</dc:title>
+                <dc:identifier>DOI 10.1145/3464432.3464437</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge United Kingdom</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katongo</foaf:surname>
+                        <foaf:givenName>Kapaya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Litt</foaf:surname>
+                        <foaf:givenName>Geoffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jackson</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11881"/>
+        <dc:title>Towards End-User Web Scraping for Customization</dc:title>
+        <dc:date>2021-03-22</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/3464432.3464437</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-21 13:28:41</dcterms:dateSubmitted>
+        <bib:pages>49-59</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Programming '21: 5th International Conference on the Art, Science, and Engineering of Programming</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_11881">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11881/Katongo-2021.pdf"/>
+        <dc:title>Katongo-2021.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+        <dc:description>&lt;p xmlns=&quot;http://www.w3.org/1999/xhtml&quot; id=&quot;title&quot;&gt;&lt;strong&gt;Contents&lt;/strong&gt;&lt;/p&gt;&lt;ul xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;list-style-type: none; padding-left:0px&quot; id=&quot;toc&quot;&gt;&lt;li&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/1&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/1&quot;&gt;1 Introduction&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/2&quot;&gt;2 Motivating Examples&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/2&quot;&gt;2.1 Creating an Adapter&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/2&quot;&gt;2.2 Extending an Adapter&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/4&quot;&gt;2.3 Repairing an Adapter&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/4&quot;&gt;3 System Implementation&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/4&quot;&gt;3.1 Wrapper Induction Algorithm&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/4&quot;&gt;3.2 Live Programming&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/7&quot;&gt;3.3 Editing by Demonstration&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/7&quot;&gt;3.4 Limitations&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/8&quot;&gt;4 Design Principles&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/8&quot;&gt;4.1 Unified Environment&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/9&quot;&gt;4.2 Editing by Demonstration&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/9&quot;&gt;4.3 Live Programming&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/10&quot;&gt;5 Related Work&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/10&quot;&gt;5.1 End-User Web Scraping&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/10&quot;&gt;5.2 End-User Web Customization&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/10&quot;&gt;6 Conclusion And Future Work&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/11&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_GH942W3P/11&quot;&gt;References&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</dc:description>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-8178-9">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-8178-9</dc:identifier>
+                <dc:title>Proceedings of the 2020 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software</dc:title>
+                <dc:identifier>DOI 10.1145/3426428.3426914</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Virtual USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Litt</foaf:surname>
+                        <foaf:givenName>Geoffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jackson</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Millis</foaf:surname>
+                        <foaf:givenName>Tyler</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quaye</foaf:surname>
+                        <foaf:givenName>Jessica</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11883"/>
+        <dc:title>End-user software customization by direct manipulation of tabular data</dc:title>
+        <dc:date>2020-11-18</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/3426428.3426914</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-21 13:28:43</dcterms:dateSubmitted>
+        <bib:pages>18-33</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>SPLASH '20: Conference on Systems, Programming, Languages, and Applications, Software for Humanity</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_11883">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11883/Litt-2020.pdf"/>
+        <dc:title>Litt-2020.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-7507-8">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-7507-8</dc:identifier>
+                <dc:title>Conference Companion of the 4th International Conference on Art, Science, and Engineering of Programming</dc:title>
+                <dc:identifier>DOI 10.1145/3397537.3397541</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Porto Portugal</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Litt</foaf:surname>
+                        <foaf:givenName>Geoffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jackson</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11885"/>
+        <dc:title>Wildcard: spreadsheet-driven customization of web applications</dc:title>
+        <dc:date>2020-03-23</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Wildcard</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/3397537.3397541</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-21 13:28:45</dcterms:dateSubmitted>
+        <bib:pages>126-135</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>&lt;Programming&gt; '20: 4th International Conference on the Art, Science, and Engineering of Programming</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_11885">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11885/Litt-2020a.pdf"/>
+        <dc:title>Litt-2020a.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
